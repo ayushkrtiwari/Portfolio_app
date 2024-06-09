@@ -32,7 +32,7 @@ class Home extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                     children:<Widget>[
                       Text("Ayush Kr. Tiwari",style:TextStyle(color:Colors.deepOrange,fontSize: 20, )),
-                      Text("All-Rounder",style:TextStyle(color:Colors.blueGrey,fontSize: 20))
+                      Text("All-Rounder",style:TextStyle(color:Colors.orange,fontSize: 20))
                     ]
                   ),
               ],
